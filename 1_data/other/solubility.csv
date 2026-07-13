@@ -1,0 +1,11 @@
+material,solubility_group
+TiO2,slow
+CeO2,slow
+SiO2,slow
+Au,slow
+Ag,soluble
+CuO,soluble
+ZnO,soluble
+Cu,soluble
+Fe2O3,slow
+Fe3O4,slow
