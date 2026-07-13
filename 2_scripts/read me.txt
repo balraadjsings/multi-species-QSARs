@@ -1,7 +1,0 @@
-data_cleaning = script to clean raw data and prepare for modelling
-new_template_models = script for regression QSAR models
-new_template_classification_models = script for classification QSAR models
-new_stack = script for stacking regression and classification models into meta model
-new_model_interpretation = script for variable importance analysis, applicability domain calculation (and partial dependence profiles (not presented in paper))
-learning_curve_2 = script for generating learning curve
-null_model = script for null model
